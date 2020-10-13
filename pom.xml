@@ -13,7 +13,7 @@
         <natives.version>0.0.6</natives.version>
         <lwjgl.version>3.2.3</lwjgl.version>
         <slick.version>3.3.2</slick.version>
-        <junit.version>4.10</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <joml.version>1.9.9</joml.version>
         <lwjgl.natives>natives-windows</lwjgl.natives>
